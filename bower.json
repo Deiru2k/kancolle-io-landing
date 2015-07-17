@@ -1,0 +1,19 @@
+{
+  "name": "gulp-bsc-angular",
+  "version": "0.0.4",
+  "author": "Eugene <me@theaqua.im> (http://theaqua.im/)",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.3.0"
+  }
+}

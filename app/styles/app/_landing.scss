@@ -1,0 +1,52 @@
+.header-image {
+  height: 540px;
+  background-image: url('/images/oyodo.png');
+}
+
+.main-header {
+  h1 {
+    color: white;
+    small {
+      color: lightgrey;
+    }
+  }
+}
+
+.absolute-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vertical-center {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.well {
+  background-color: #D0DEE3;
+  border-color: #ADD8E6;
+  // border-color: #8AADB8;
+}
+
+.pitch-points {
+  margin-top: 50px;
+  height: 240px;
+}
+
+.footer {
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.icon-point {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  color: lightblue;
+  border: 3px solid lightblue;
+}
