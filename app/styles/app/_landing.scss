@@ -15,6 +15,18 @@
   }
 }
 
+.input-group-addon.btn-primary {
+  color: #fff !important;
+  background-color: #40aae7 !important;
+  border-color: #29a0e4 !important;
+}
+
+.input-group-addon.btn-primary:hover {
+  color: #fff !important;
+  background-color: #1b94d9 !important;
+  border-color: #177eb9 !important;
+}
+
 .absolute-center {
   display: flex;
   align-items: center;
@@ -46,14 +58,6 @@
   .col-md-4:last-child {
     padding-bottom: 100px;
   }
-}
-
-.footer {
-  display: flex;
-  align-items: center;
-  height: 350px;
-  margin-top: 50px;
-  background-color: rgba(173, 216, 230, 0.1);
 }
 
 .icon-point {
